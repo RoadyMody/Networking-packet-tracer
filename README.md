@@ -1,4 +1,0 @@
-tictactoe
-=========
-
-TicTacToe with AngularJs
